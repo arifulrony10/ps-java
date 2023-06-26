@@ -20,6 +20,12 @@
 
     9. [01 Triangle](#01-triangle)
 
+    10. [Solid Rhombus](#solid-rhombus)
+
+    11. [Full Number Pyramid](#full-number-pyramid)
+
+    12. [Palindromic Number Pyramid](#palindromic-number-pyramid)
+
 ## Basic Patterns
 
 ---
@@ -144,7 +150,7 @@ Solid Rhombus:
    * * * * *
 * * * * *
 ```
-[01 Triangle Code](./BasicPatterns/ZeroOneTriangle.java)
+[Solid Rhombus Code](./BasicPatterns/ZeroOneTriangle.java)
 
 ### Full Number Pyramid
 
