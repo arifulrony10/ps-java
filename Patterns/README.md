@@ -29,7 +29,7 @@
 Print the pattern 
 
 ```
-Pattern/Solid Rectangle:
+Solid Rectangle:
 *****
 *****
 *****
@@ -42,7 +42,7 @@ Pattern/Solid Rectangle:
 Print the pattern 
 
 ```
-Pattern/Hollow Rectangle:
+Hollow Rectangle:
 *****
 *   *
 *   *
@@ -53,7 +53,7 @@ Pattern/Hollow Rectangle:
 ### Half Pyramid
 
 ```
-Pattern/Solid Rectangle:
+Half Pyramid:
 *
 **
 ***
@@ -64,7 +64,7 @@ Pattern/Solid Rectangle:
 ### Inverted Half Pyramid
 
 ```
-Pattern/Solid Rectangle:
+Inverted Half Pyramid:
 ****
 ***
 **
@@ -76,7 +76,7 @@ Pattern/Solid Rectangle:
 ### Inverted Half Pyramid rotated by 180 deg
 
 ```
-Pattern/Solid Rectangle:
+Inverted Half Pyramid rotated by 180 deg:
    *
   **
  ***
@@ -87,7 +87,7 @@ Pattern/Solid Rectangle:
 ### Print number pyramid
 
 ```
-Number Pattern:
+Number Pyramid:
 1
 1 2
 1 2 3
@@ -99,7 +99,7 @@ Number Pattern:
 ### Inverted half pyramid with numbers
 
 ```
-Number Pattern:
+Inverted half pyramid with numbers:
 1 2 3 4 5
 1 2 3 4
 1 2 3
@@ -112,7 +112,7 @@ Number Pattern:
 ### Floyd’s Triangle
 
 ```
-Number Pattern:
+Floyd’s Triangle:
 1
 2 3
 4 5 6
@@ -125,7 +125,7 @@ Number Pattern:
 ### 01 Triangle
 
 ```
-Number Pattern:
+01 Triangle:
 1
 0 1
 1 0 1
@@ -133,6 +133,42 @@ Number Pattern:
 1 0 1 0 1
 ```
 [01 Triangle Code](./BasicPatterns/ZeroOneTriangle.java)
+
+### Solid Rhombus
+
+```
+Solid Rhombus:
+         * * * * *
+       * * * * *
+     * * * * *      
+   * * * * *
+* * * * *
+```
+[01 Triangle Code](./BasicPatterns/ZeroOneTriangle.java)
+
+### Full Number Pyramid
+
+```
+Full Number Pyramid:
+    1 
+   2 2 
+  3 3 3 
+ 4 4 4 4 
+5 5 5 5 5 
+```
+[Full Number Pyramid](./BasicPatterns/FullNumberPyramid.java)
+### Palindromic Number Pyramid
+
+```
+Palindromic Number Pyramid:
+    1
+   212
+  32123
+ 4321234
+543212345  
+```
+[Palindromic Number Pyramid](./BasicPatterns/PalindromicNumberPyramid.java)
+
 
 ## Advance Patterns
 
